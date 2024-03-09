@@ -1,7 +1,7 @@
 {
   "name": "draph-tea",
-  "version": "0.1.0",
-  "private": true,
+  "version": "4.1.0",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
